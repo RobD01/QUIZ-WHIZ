@@ -7,6 +7,7 @@ function App() {
 
   return (
     <>
+      <h1>Emi & Mira's website</h1>
       <div>
         <img
           src="https://53.fs1.hubspotusercontent-na1.net/hub/53/hubfs/google-quiz.jpg?width=595&height=400&name=google-quiz.jpg"
